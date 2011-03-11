@@ -1,0 +1,5 @@
+production:
+  adapter: mysql
+  database: my_app_name_staging
+  username: username
+  password: P@s5W0rd
